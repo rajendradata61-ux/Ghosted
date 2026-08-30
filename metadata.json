@@ -1,0 +1,6 @@
+{
+  "name": "Caught in 4K",
+  "description": "Viral mobile multiplayer social deduction & chaos party game for squads navigating absurd everyday situations.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

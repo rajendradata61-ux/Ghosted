@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Camera body outline in safe zone -->
+    <path
+        android:fillColor="#1E1438"
+        android:strokeColor="#00FF88"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M36,36 L43,30 L65,30 L72,36 L82,36 C85.3,36 88,38.7 88,42 L88,74 C88,77.3 85.3,80 82,80 L26,80 C22.7,80 20,77.3 20,74 L20,42 C20,38.7 22.7,36 26,36 Z" />
+    
+    <!-- Glowing Camera Lens / Aperture -->
+    <path
+        android:fillColor="#00000000"
+        android:strokeColor="#B026FF"
+        android:strokeWidth="3.5"
+        android:pathData="M54,58 m-16,0 a16,16 0 1,0 32,0 a16,16 0 1,0 -32,0" />
+    
+    <!-- Neon Eye / Winking Center -->
+    <path
+        android:fillColor="#00FF88"
+        android:pathData="M54,58 m-7,0 a7,7 0 1,0 14,0 a7,7 0 1,0 -14,0" />
+    
+    <!-- Flash Light Red Dot (Recording / 4K) -->
+    <path
+        android:fillColor="#FF3366"
+        android:pathData="M78,44 m-3.5,0 a3.5,3.5 0 1,0 7,0 a3.5,3.5 0 1,0 -7,0" />
+
+    <!-- 4K Badge -->
+    <path
+        android:fillColor="#00F0FF"
+        android:pathData="M32,45 L32,49 L36,49 L36,52 L38,52 L38,49 L40,49 L40,47 L38,47 L38,43 L36,43 L32,47 Z" />
+</vector>
+
